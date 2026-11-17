@@ -6,7 +6,7 @@ One script for the three common checkboxes: **Cloudflare Turnstile**, **reCAPTCH
 
 ## Install
 
-[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/captcha-autopilot/captcha-autopilot.user.js)
+[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/captcha-autopilot-userscript/main/captcha-autopilot.user.js)
 
 ## Why this exists
 

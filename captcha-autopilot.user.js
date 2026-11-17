@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Captcha Autopilot (Turnstile + reCAPTCHA + hCaptcha)
-// @namespace    https://github.com/chirag127/userscripts
+// @namespace    https://github.com/chirag127/captcha-autopilot-userscript
 // @version      1.0.0
 // @description  One script for the three common checkboxes: Cloudflare Turnstile, reCAPTCHA v2 and hCaptcha. Ticks them with fake-trusted pointer events in their frames, calls execute() for invisible widgets, fires token change events. ScriptCat switches, on by default.
 // @author       chirag127
@@ -17,10 +17,10 @@
 // @grant        GM_log
 // @grant        CAT_registerMenuInput
 // @license      MIT
-// @homepageURL  https://github.com/chirag127/userscripts/tree/main/scripts/captcha-autopilot
-// @supportURL   https://github.com/chirag127/userscripts/issues
-// @updateURL    https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/captcha-autopilot/captcha-autopilot.user.js
-// @downloadURL  https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/captcha-autopilot/captcha-autopilot.user.js
+// @homepageURL  https://github.com/chirag127/captcha-autopilot-userscript
+// @supportURL   https://github.com/chirag127/captcha-autopilot-userscript/issues
+// @updateURL    https://raw.githubusercontent.com/chirag127/captcha-autopilot-userscript/main/captcha-autopilot.user.js
+// @downloadURL  https://raw.githubusercontent.com/chirag127/captcha-autopilot-userscript/main/captcha-autopilot.user.js
 // ==/UserScript==
 
 (() => {
